@@ -1,25 +1,15 @@
-# Hi there! <img src="https://githubusercontent.com" width="30px">
+# Hi there!👋
 
-```json
-{
-  "developer": {
-    "name": "lifer-x",
-    "role": "React Junior Developer",
-    "status": ["React Junior Developer", "Python & Express Coder", "Future Kernel Contributor"],
-    "location": "Novosibirsk, Russia",
-    "hobbies": ["YouTube", "Sports", "Learning something new"]
-  },
-  "currentStatus": {
-    "focus": "React, Express & Python",
-    "learning": "C & System Programming",
-    "milestone": "Waiting for Linux 7.3 to officially become a Kernel Contributor! 🐧"
-  },
-  "contact": {
-    "telegram": "@lifer_x",
-    "email": "ulijg308@gmail.com"
-  }
-}
-```
+### 🚀 Current Status
+* **Focus:** React, Express & Python
+* **Learning:** C & System Programming
+* **Milestone:** Waiting for Linux 7.3 to officially become a Kernel Contributor! 🐧
+* **Hobbies:** YouTube | Sports | Learning something new
+
+### 📬 Contact
+* **Telegram:** [@lifer_x](https://t.me)
+* **Email:** ulijg308@gmail.com
+
 
 ### 🧰 Tech Stack & Tools:
 
