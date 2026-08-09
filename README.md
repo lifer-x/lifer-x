@@ -25,7 +25,7 @@
 
 ⚡ **Languages**
 <p align="left">
-  <img src="https://github.com/gilbarbara/logos/blob/main/logos/javascript.svg" alt="JavaScript" />
+  <img src="https://github.com/gilbarbara/logos/blob/main/logos/javascript.svg" alt="JavaScript" height="35"/>
   <img src="https://github.com/gilbarbara/logos/blob/main/logos/python.svg" alt="Python" />
   <img src="https://github.com/gilbarbara/logos/blob/main/logos/c.svg" alt="C" />
 </p>
@@ -47,7 +47,7 @@
 
 💻 **Environment & OS**
 <p align="left">
-  <img src="https://github.com/gilbarbara/logos/blob/main/logos/linux.svg" alt="Linux" />
+  <img src="https://github.com/gilbarbara/logos/blob/main/logos/linux-tux.svg" alt="Linux" />
   <img src="https://github.com/gilbarbara/logos/blob/main/logos/archlinux.svg" alt="Arch Linux" />
   <img src="https://github.com/gilbarbara/logos/blob/main/logos/visual-studio-code.svg" alt="VS Code" />
 </p>
