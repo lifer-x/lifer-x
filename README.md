@@ -1,6 +1,6 @@
-# Привет! <img src="https://githubusercontent.com" width="30px">
+# Hi there! <img src="https://githubusercontent.com" width="30px">
 
-<!-- Анимированный заголовок по гайду с Medium -->
+<!-- Animated Header -->
 <p align="left">
   <a href="https://git.io"><img src="https://demolab.com" alt="Typing SVG" /></a>
 </p>
@@ -25,7 +25,7 @@
 }
 ```
 
-### 🧰 Технологический стек & Инструменты:
+### 🧰 Tech Stack & Tools:
 
 ⚡ **Languages**
 <p align="left">
@@ -52,20 +52,4 @@
 <p align="left">
   <img src="https://shields.io" alt="Arch Linux" />
   <img src="https://shields.io" alt="VS Code" />
-</p>
-
-### 🛠️ Мои главные проекты:
-<p align="left">
-  <img src="https://vercel.app" alt="expiredis-backend Card" height="120" />
-  <img src="https://vercel.app" alt="snow-game Card" height="120" />
-</p>
-
-### 📊 Статистика профиля:
-<p align="left">
-  <img src="https://vercel.app" alt="GitHub Stats" height="180" />
-  <img src="https://vercel.app" alt="Top Langs" height="180" />
-</p>
-
-<p align="left">
-  <img src="https://herokuapp.com" alt="GitHub Streak" height="180" />
 </p>
