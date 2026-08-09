@@ -25,27 +25,29 @@
 
 ⚡ **Languages**
 <p align="left">
-  <img src="https://shields.io" alt="JavaScript" />
-  <img src="https://shields.io" alt="Python" />
-  <img src="https://shields.io" alt="C" />
+  <img src="https://github.com/gilbarbara/logos/blob/main/logos/javascript.svg" alt="JavaScript" />
+  <img src="https://github.com/gilbarbara/logos/blob/main/logos/python.svg" alt="Python" />
+  <img src="https://github.com/gilbarbara/logos/blob/main/logos/c.svg" alt="C" />
 </p>
 
 🌐 **Frontend Development**
 <p align="left">
-  <img src="https://shields.io" alt="React" />
-  <img src="https://shields.io" alt="HTML5" />
-  <img src="https://shields.io" alt="CSS3" />
+  <img src="https://github.com/gilbarbara/logos/blob/main/logos/react.svg" alt="React" />
+  <img src="https://github.com/gilbarbara/logos/blob/main/logos/html-5.svg" alt="HTML5" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/CSS.3.svg" alt="CSS3" />
+  <img src="https://github.com/gilbarbara/logos/blob/main/logos/javascript.svg" alt="JavaScript" />
 </p>
 
 ⚙️ **Backend & Databases**
 <p align="left">
-  <img src="https://shields.io" alt="NodeJS" />
-  <img src="https://shields.io" alt="Express" />
-  <img src="https://shields.io" alt="SQLite" />
+  <img src="https://github.com/gilbarbara/logos/blob/main/logos/nodejs.svg" alt="NodeJS" />
+  <img src="https://github.com/gilbarbara/logos/blob/main/logos/express.svg" alt="Express" />
+  <img src="https://github.com/gilbarbara/logos/blob/main/logos/sqlite.svg" alt="SQLite" />
 </p>
 
 💻 **Environment & OS**
 <p align="left">
-  <img src="https://shields.io" alt="Arch Linux" />
-  <img src="https://shields.io" alt="VS Code" />
+  <img src="https://github.com/gilbarbara/logos/blob/main/logos/linux.svg" alt="Linux" />
+  <img src="https://github.com/gilbarbara/logos/blob/main/logos/archlinux.svg" alt="Arch Linux" />
+  <img src="https://github.com/gilbarbara/logos/blob/main/logos/visual-studio-code.svg" alt="VS Code" />
 </p>
