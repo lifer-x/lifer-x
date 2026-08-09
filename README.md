@@ -1,15 +1,11 @@
 # Hi there! <img src="https://githubusercontent.com" width="30px">
 
-<!-- Animated Header -->
-<p align="left">
-  <a href="https://git.io"><img src="https://demolab.com" alt="Typing SVG" /></a>
-</p>
-
 ```json
 {
   "developer": {
     "name": "lifer-x",
     "role": "React Junior Developer",
+    "status": ["React Junior Developer", "Python & Express Coder", "Future Kernel Contributor"],
     "location": "Novosibirsk, Russia",
     "hobbies": ["YouTube", "Sports", "Learning something new"]
   },
