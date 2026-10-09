@@ -3,7 +3,7 @@
 ### 🚀 Current Status
 * **Focus:** React, Express & Python
 * **Learning:** C & System Programming
-* **Milestone:** Waiting for Linux 7.3 to officially become a Kernel Contributor! 🐧
+* **Milestone:** Waiting ACK for my patch for linux-wireless! 🐧
 * **Hobbies:** YouTube | Sports | Learning something new
 
 ### 📬 Contact
